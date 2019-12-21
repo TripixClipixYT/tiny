@@ -10,7 +10,7 @@
 ## Example (Optional)
 
 ```javascript
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@tripix/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
